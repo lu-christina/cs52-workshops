@@ -10,5 +10,5 @@ directory
 * 4/26: [ant design](https://github.com/lu-christina/ant-design)
 * 5/1: [google cloud vision api](https://github.com/dartmouth-cs52-18S/workshop-ws-5-1-apis-google-cloud-vision-api)
 * 5/3: [google chrome extensions](https://github.com/lu-christina/workshop-ws-chrome-extension)
-* 5/8: [aws] (https://github.com/lu-christina/workshop-ws-5-8-lu-christina)
-* 5/10: [docker] (https://github.com/lu-christina/workshop-ws-5-10-deployment-docker)
+* 5/8: [aws](https://github.com/lu-christina/workshop-ws-5-8-lu-christina)
+* 5/10: [docker](https://github.com/lu-christina/workshop-ws-5-10-deployment-docker)
